@@ -1,6 +1,6 @@
 # Fun-ML
 
-Melbourne Housing Price Analysis
+<b> Melbourne Housing Price Analysis <b> 
 
 Overview:
 Source: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
